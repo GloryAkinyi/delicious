@@ -1,2 +1,2 @@
-Hosted in github page
+Hosted in github pages
 
