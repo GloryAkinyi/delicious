@@ -1,6 +1,2 @@
-Thanks for downloading this template!
+Hosted in github page
 
-Template Name: Delicious
-Template URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
